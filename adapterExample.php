@@ -28,6 +28,4 @@
     $studentAdapter = new StudentAdapter($student);
 
     echo $studentAdapter->getNameAndAgeOfStudent();
-
-
 ?>
